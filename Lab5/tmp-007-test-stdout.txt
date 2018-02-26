@@ -1,0 +1,10 @@
+Scoring sets:
+  Size:  1  Char: a  Scoring Cell: 2,1
+  Size:  1  Char: a  Scoring Cell: 3,0
+  Size: 26  Char: b  Scoring Cell: 3,1
+  Size:  1  Char: b  Scoring Cell: 3,10
+  Size:  1  Char: a  Scoring Cell: 3,11
+  Size:  1  Char: a  Scoring Cell: 4,1
+  Size:  1  Char: b  Scoring Cell: 4,11
+  Size:  1  Char: b  Scoring Cell: 5,10
+  Size:  1  Char: a  Scoring Cell: 5,11

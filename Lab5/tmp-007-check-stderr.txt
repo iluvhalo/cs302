@@ -1,0 +1,1 @@
+Bad line: 'Size: 1 Char: a Scoring Cell: 4,1 - the size should be 2

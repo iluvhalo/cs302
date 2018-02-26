@@ -1,0 +1,1 @@
+Bad Solution: Bad Maze -- no ROWS
